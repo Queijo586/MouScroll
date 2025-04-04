@@ -1,0 +1,200 @@
+body{
+    margin: 0;
+    overflow: auto;
+    
+}
+
+
+table {
+    
+
+    height: 98vh;
+    width: 100%;
+    margin: 0;
+    border-spacing: 0px;
+}
+
+td{
+    width: 5,5%;
+    height: 5,5%;
+}
+
+
+
+
+.cabeca{
+    background-color: rgba(151, 153, 197, 1);
+    height: 169px;
+    width: 100px;
+    text-align: center;
+    position: relative;
+}
+.cabeca img{
+    left: 440px;
+    top: 22px;
+    bottom: px;
+    position: absolute;
+    width: 40%;
+}
+a{
+    color: black;
+}
+
+
+
+
+
+
+ 
+#longo img{
+    width: 1%;
+}
+#longo{
+    height: 169px;
+}
+
+
+.gravata{
+    background-color: rgba(70, 72, 94, 1);
+    height: 52px;
+}
+
+.barrabaixa{
+    background-color: rgba(70, 72, 94, 1);
+    width: 100%;
+    height: 81px;
+}   
+
+.redes{
+    text-align: center;
+}
+
+#insta img{
+    width: 30%;
+}
+#youtube img{
+    width: 40%;
+}
+#tiktok img{
+    width: 30%;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.casarato{
+    background-color: rgba(100, 102, 136, 1);
+    width: 218px;
+    text-align: center;
+}
+.casarato img{
+    width: 118%;
+}
+
+.espaço1{
+    width: 81px;
+}
+
+
+
+
+
+#titulo {
+    text-align: center;
+    font-family: "Jaro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 45px;
+    
+    
+}
+
+
+
+
+
+.titulo{
+    width: 20%;
+}
+
+
+#espaco2{
+    height: 45px;
+}
+#espaco3{
+    height: 45px;
+}
+
+#txt1{
+    
+    background-color: rgba(172, 151, 197, 0.76);
+    height: 320px;
+    width: 800px;
+    border-radius: 57px;
+    text-align: center;
+    padding: 20px;
+
+    font-family: "Jaro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 45px;
+}
+
+
+#txt2{
+    
+    background-color: rgba(172, 151, 197, 0.76);
+    height: 350px;
+    width: 400px;
+    border-radius: 57px;
+    text-align: center;
+    margin-left: 180px;
+
+
+    font-family: "Jaro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 45px;
+}
+
+#txt3{
+    visibility: hidden;
+    background-color: rgba(172, 151, 197, 0.76);
+    height: 320px;
+    width: 800px;
+    border-radius: 57px;
+    text-align: center;
+    padding: 20px;
+
+    font-family: "Jaro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 45px;    
+    
+}
+
+
+
+#Fala{
+    text-align: center;
+    font-family: "Jaro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 45px;    
+    color: white;
+    background-color: rgba(100, 102, 136, 1);
+    
+}
+
+textarea{
+    resize: none;
+}

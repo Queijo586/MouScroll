@@ -1,0 +1,177 @@
+body{
+    margin: 0;
+    
+}
+
+
+table {
+    
+
+    height: 98vh;
+    width: 100%;
+    margin: 0;
+    border-spacing: 0px;
+}
+
+.cabeca{
+    background-color: rgba(151, 153, 197, 1);
+    height: 169px;
+    width: 100px;
+    text-align: center;
+    position: relative;
+}
+.cabeca img{
+    left: 440px;
+    top: 22px;
+    bottom: px;
+    position: absolute;
+    width: 40%;
+}
+a{
+    color: black;
+}
+
+
+
+
+
+
+ 
+#longo img{
+    width: 1%;
+}
+#longo{
+    height: 169px;
+}
+
+
+.gravata{
+    background-color: rgba(70, 72, 94, 1);
+    height: 52px;
+}
+.caixaicones{
+    background-color:rgba(125, 127, 170, 1) ;
+    text-align: center;
+    height: vh;
+}
+
+
+.linhapequena{
+    height: 18px;
+
+}
+.linhapequena1{
+    height: 90px;
+    width: 81px;
+    
+}
+
+
+
+
+
+
+#carrim img{
+    width: 80px;  
+}
+#casinha img{
+    width: 80px;
+}
+#casinha img:hover{
+    width: 90px;
+}
+
+
+.barrabaixa{
+    background-color: rgba(70, 72, 94, 1);
+    width: 100%;
+    height: 81px;
+}   
+
+.redes{
+    text-align: center;
+}
+
+#insta img{
+    width: 120%;
+}
+#youtube img{
+    width: 40%;
+}
+#tiktok img{
+    width: 30%;
+}
+
+
+
+div{
+    background-color: rgba(217, 217, 217, 1);
+    height: 54px;
+    width: 208px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    
+    box-shadow: -9px 5px 1px 1px rgba(130, 115, 149, 1);
+    text-align: center;
+}
+
+div:hover{
+    margin-left: 8px;
+    margin-right: 2px;
+}  
+
+#some div{
+    visibility: hidden;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+.casarato{
+    background-color: rgba(100, 102, 136, 1);
+    width: 218px;
+    text-align: center;
+}
+.casarato img{
+    width: 117%;
+}
+
+
+.barraEsquerda{
+    background-color: rgba(172, 151, 197, 1);
+    
+
+    font-family: "Jaro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    width: 109px;
+    font-size: 45px;
+    
+}
+
+.espaço1{
+    width: 81px;
+}
+
+
+.produto {
+    background-color: rgba(172, 151, 197, 1);
+    width: auto;
+    max-width: 300px;
+    height: 404px;
+    text-align: center;
+    font-size: 50px;
+    font-family: "Jersey 15", sans-serif;
+    
+}
+
+.itemproduto{
+    width: 299px;
+    height: 299px;
+    margin: 0;
+    
+}
